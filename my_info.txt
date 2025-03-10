@@ -1,3 +1,3 @@
 Name: Vaishakh N Y
 Course: Computer Science and Engineering 
-Favourite Programming Lang: Python
+Fav Programming Lang: Python
